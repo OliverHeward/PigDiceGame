@@ -5,5 +5,5 @@ A simple Dice game called Pig, This was a project as part of a Javascript Udemy 
 ## Installation
 
 > Download / Clone repository
-> Open index.html
-> Play with your friend!
+	Open index.html
+	Play with your friend!
